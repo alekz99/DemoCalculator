@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\DemoFormCalculator\DemoFormCalculator\bin\Debug\DemoFormCalculator.exe.config
+C:\Users\1\source\repos\DemoFormCalculator\DemoFormCalculator\bin\Debug\DemoFormCalculator.exe
+C:\Users\1\source\repos\DemoFormCalculator\DemoFormCalculator\bin\Debug\DemoFormCalculator.pdb
+C:\Users\1\source\repos\DemoFormCalculator\DemoFormCalculator\obj\Debug\DemoFormCalculator.csprojAssemblyReference.cache
+C:\Users\1\source\repos\DemoFormCalculator\DemoFormCalculator\obj\Debug\DemoFormCalculator.DemoCalculator.resources
+C:\Users\1\source\repos\DemoFormCalculator\DemoFormCalculator\obj\Debug\DemoFormCalculator.Properties.Resources.resources
+C:\Users\1\source\repos\DemoFormCalculator\DemoFormCalculator\obj\Debug\DemoFormCalculator.csproj.GenerateResource.cache
+C:\Users\1\source\repos\DemoFormCalculator\DemoFormCalculator\obj\Debug\DemoFormCalculator.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\DemoFormCalculator\DemoFormCalculator\obj\Debug\DemoFormCalculator.exe
+C:\Users\1\source\repos\DemoFormCalculator\DemoFormCalculator\obj\Debug\DemoFormCalculator.pdb

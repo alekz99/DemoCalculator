@@ -61,6 +61,7 @@ namespace DemoFormCalculator
                     break;
             }
             resultValue = Double.Parse(textBox.Text);
+            Clipboard.SetText(textBox.Text);
         }
 
         private void operator_Click(object sender, EventArgs e)
